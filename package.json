@@ -1,0 +1,10 @@
+{
+  "name": "crypto-prices",
+  "version": "1.0.0",
+  "description": "Real-time crypto prices for Conway autonomous agents. No API key needed.",
+  "main": "index.js",
+  "bin": { "crypto-prices": "./index.js" },
+  "keywords": ["crypto", "bitcoin", "coingecko", "conway", "autonomous-agents", "ai-agents"],
+  "author": "Zarti <0x570865183a858B2565f93B4E5329aB78034a0c36>",
+  "license": "MIT"
+}
